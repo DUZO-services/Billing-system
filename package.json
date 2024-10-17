@@ -1,0 +1,19 @@
+{
+  "name": "billing-system",
+  "version": "1.0.0",
+  "description": "This is a billing system designed for duzo kriton pvt. ltd.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DUZO-services/Billing-system.git"
+  },
+  "author": "Duzo kriton pvt. ltd.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DUZO-services/Billing-system/issues"
+  },
+  "homepage": "https://github.com/DUZO-services/Billing-system#readme"
+}
